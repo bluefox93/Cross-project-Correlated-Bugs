@@ -16,3 +16,5 @@ A case study on the GitHub scientific Python ecosystem", including:
 * Distribution of hidden duration (Figure 4): Figure 4 in RQ1 which shows the distribution of hidden duration
 A version-dependent workaround (Figure 6): Figure 6 in RQ3 which shows an example of a version-dependent workaround
 * The identities of reporters and restorers (Figure 7): Figure 7 in RQ3 which shows the identities of reporters and restorers of the upstream bugs in the dowsntream projects
+
+paper: ICSE'17 (http://ieeexplore.ieee.org/document/7985678/)
