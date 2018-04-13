@@ -17,4 +17,5 @@ A case study on the GitHub scientific Python ecosystem", including:
 A version-dependent workaround (Figure 6): Figure 6 in RQ3 which shows an example of a version-dependent workaround
 * The identities of reporters and restorers (Figure 7): Figure 7 in RQ3 which shows the identities of reporters and restorers of the upstream bugs in the dowsntream projects
 
-paper: ICSE'17 (http://ieeexplore.ieee.org/document/7985678/)
+paper: ICSE'17 (http://ieeexplore.ieee.org/document/7985678/ or https://www.researchgate.net/publication/318574978_How_Do_Developers_Fix_Cross-Project_Correlated_Bugs_A_Case_Study_on_the_GitHub_Scientific_Python_Ecosystem)
+
